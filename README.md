@@ -1,1 +1,1 @@
-{'ver1':'13', 'ver2':'25', 'ver3':'\n[>> Cool Whatsapp ] V-8\n[>> Update Before Expired This Mod WA\n[>> Click The Download Button And Download Form YT.\n[>> Thak You For Using Cool WA.\n>>Massage Form Developer<<\n' , 'dli':'https://youtube.com/channel/UCZj0Ipz0MLa7CHAitXtqFrw'}
+{'ver1':'13', 'ver2':'25', 'ver3':'\n[>> Cool Whatsapp ] V-8\n[>> Update Before Expired This Mod WA\n[>> Click The Download Button And Download Form YT.\n[>> Thak You For Using Cool WA.\n   >>Massage Form Developer<<\n' , 'dli':'https://youtube.com/channel/UCZj0Ipz0MLa7CHAitXtqFrw'}
